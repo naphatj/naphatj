@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naphatj
 - 👀 I’m interested in: web/app development, data engineering, machine learning
-- 🌱 I’m currently learning: Redux, Firebase Hosting & Real-time DB, NestJS
+- 🌱 I’m currently learning: Nuxt, Redux, Firebase Hosting & Real-time DB, NestJS
 - 💞️ I’m looking to collaborate on: - 
 - 📫 How to reach me: naphatj.work@gmail.com
 
